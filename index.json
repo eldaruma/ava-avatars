@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "avatars": [
+    { "id": "avatar-1", "name": "Yuna", "vrm": "avatars/avatar-1/model.vrm", "thumbnail": "avatars/avatar-1/preview.png" },
+    { "id": "avatar-2", "name": "Misaki", "vrm": "avatars/avatar-2/model.vrm", "thumbnail": "avatars/avatar-2/preview.png" },
+    { "id": "avatar-3", "name": "Risa", "vrm": "avatars/avatar-3/model.vrm", "thumbnail": "avatars/avatar-3/preview.png" },
+    { "id": "avatar-4", "name": "Akane", "vrm": "avatars/avatar-4/model.vrm", "thumbnail": "avatars/avatar-4/preview.png" }
+  ]
+}
